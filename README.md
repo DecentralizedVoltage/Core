@@ -1,5 +1,6 @@
 ---
 coverY: 0
+cover: .gitbook/assets/layered-steps-haikei (2).png
 ---
 
 # Welcome!
