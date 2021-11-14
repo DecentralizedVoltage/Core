@@ -4,4 +4,8 @@
 
 ## The Context
 
-* [Issue & solution](the-context/issue-and-solution.md)
+* [Issue & solution](the-company/vision-and-values.md)
+
+## The DeVolt Team
+
+* [Meet the team](the-devolt-team/meet-the-team.md)
