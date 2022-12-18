@@ -1,6 +1,6 @@
 ---
-coverY: 0
 cover: .gitbook/assets/layered-steps-haikei (2).png
+coverY: 0
 ---
 
 # Welcome!
@@ -18,3 +18,5 @@ This Gitbook is the documentation about the project. Here you can find some more
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
+
+_This project was created during Blingathon 2021 Hackathon._
